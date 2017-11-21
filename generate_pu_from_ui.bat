@@ -1,0 +1,1 @@
+pyuic4 -x abtTerminalUI.ui -o abtTerminalUI.py
